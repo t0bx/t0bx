@@ -9,13 +9,13 @@ Right now I'm going deep on **Rust** (coming from Java) and running my own iOS a
 ### [elv8](https://apps.apple.com/app/elv8-habit-goal-tracker/id6759551662) &nbsp;·&nbsp; live on the App Store
 A habit and goal tracker for iOS. React Native + Expo on the front, Spring Boot backend, with OTA updates, a secure upload pipeline and server side gamification.
 
+### [depfly](https://github.com/t0bx/depfly)
+Lightning-fast Maven dependency picker. A global hotkey brings a Spotlight-style window to the front, you type the artifact name, and the finished dependency snippet gets copied to your clipboard.
+
 ### CubeFile &nbsp;·&nbsp; *private (soon to be public)*
 A modern desktop SFTP/SSH client built with Tauri and Rust, with an embedded terminal and AI integration.
 
 ## Tech I work with
-
-Sauberer Stack, das bildet dich gut ab. 22 Badges sind aber genau an der Grenze, wo eine einzige Reihe anfängt wie Deko zu wirken. Gruppiert liest sich das viel kuratierter, hier deine Liste in vier Blöcke sortiert:
-markdown## Tech I work with
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
